@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".envrc"
-hash = "41778c42f7037774552b524722045e875ced6f5ba7a5fb577acfac06972ec418"
-
-[[files]]
-file = "flake.lock"
-hash = "1a1588cfa97de89cf76f941ca27fbc3784c037eb86c918d24990c0227f5c0324"
-
-[[files]]
-file = "flake.nix"
-hash = "0f976eba0ce88a71b16b064a4a97e81a29a174688c811b196a93903e0874e2e1"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
