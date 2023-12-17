@@ -1,0 +1,16 @@
+name = "Modpack"
+author = "njeromin"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "55c553cefc4117b9c51497e1d2d90a0a8aea5cbe06245ce1fc78ceb7f55888a5"
+
+[versions]
+forge = "47.2.17"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1"]

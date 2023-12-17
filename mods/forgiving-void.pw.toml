@@ -1,0 +1,13 @@
+name = "Forgiving Void"
+filename = "forgivingvoid-forge-1.20-10.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/fkgPJpzD/forgivingvoid-forge-1.20-10.0.0.jar"
+hash-format = "sha1"
+hash = "af64550ac24d50028656fa6a63b06271daa4304c"
+
+[update]
+[update.modrinth]
+mod-id = "1vkzEZjE"
+version = "fkgPJpzD"
