@@ -58,6 +58,11 @@ hash = "28ab3346804eee584b003ae4a71b09d87612ed662a7e24a030cf219706bbbd2f"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "c49257fc3e65ef323636ba9ae14b75d7845db2c00b6533eb16b09b5e37658813"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
@@ -308,6 +313,11 @@ hash = "ced88c2b170469d097b3fad5204b5fe29445f99d639d91afbd07f1d0e424b424"
 metafile = true
 
 [[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
+metafile = true
+
+[[files]]
 file = "mods/ctov-immersive-engineering-compat.pw.toml"
 hash = "85138dbb3dfd5c0ae834310c42aa7c880d00fa1139c97f2bb3b324d7c916dbd5"
 metafile = true
@@ -440,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "cb6b07414d3d90a6cc0f8a4c16bb8773bb14c9e84bb262e1ace80f1b12329958"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
 metafile = true
 
 [[files]]
@@ -620,6 +635,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "21705a2af8a180282fa33caff946ac09d16743e4f15d972c2767b1a75ebda581"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "f221e891a23945b613d8344783737ca6a420c599f82204c31d0aaebb7e2e45b1"
 metafile = true
 
 [[files]]
@@ -808,6 +828,16 @@ hash = "be15e26c57596a239a4ce1ab4115003c39ca4e9e505ebf92990dcd005030c7e7"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "f156c40c0c9453fc3871188e483fb6f696802ef07f87ebfaf5f5eda58979cb1c"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "a4b1aca5e959bc7ecad268c61de62704c92ffa16087194f6f74eab868fd0bcd7"
+metafile = true
+
+[[files]]
 file = "mods/runelic.pw.toml"
 hash = "61ce4ba81f3903ab9d2c27f7fa073f800f9480d910d3022e1701bfcdbb0ad6dd"
 metafile = true
@@ -885,6 +915,11 @@ metafile = true
 [[files]]
 file = "mods/tetranomicon.pw.toml"
 hash = "be27fa0c152c156d3c6feb68b7a997f50239340a29ef6bfee664138a2d5f45d2"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "4a1b42bdfa6f580cbc59ccda9d3af2281434a402e0c0c05b81886a2b013c1530"
 metafile = true
 
 [[files]]
