@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "160ebdf64ef0c4e55a12a5ce11846da6e3d71a57ac5d077368a4551f8b55a654"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "0a1794c5715b1f2a2a811f7317b4c33f6f8ce0cd2655e12da1d325cc62444be6"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "55b598dca3289b277de53d79f82b69f51d3ed365f4feaac9a73b8db5f3db10b2"
+
+[[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "245ed8110ba7d87d1e20a8b606408cb5679e0162a60cd62cd78f473bca25d109"
+
+[[files]]
+file = "config/emi.css"
+hash = "b5717a5f64dec2dc4a03f34cfac5a9c170ab8cd04c34c11653c16d0e7e9b577d"
+
+[[files]]
+file = "config/fml.toml"
+hash = "eb16558525059d5edb1d18a49e7830eaeaef6941da8fec1db87fa8df69fa54e5"
+
+[[files]]
+file = "defaultconfigs/computercraft-server.toml"
+hash = "d7fe13222e918e8ba4b603bd5822f566305b582679a986ed0a34d326714ad9cc"
+
+[[files]]
+file = "defaultconfigs/fluxnetworks-server.toml"
+hash = "04f935aff799af1028b010671a6461e1b40fc5fb7ddafc4045fde40e095549fb"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
