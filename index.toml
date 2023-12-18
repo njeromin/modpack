@@ -5,6 +5,14 @@ file = "LICENSE"
 hash = "160ebdf64ef0c4e55a12a5ce11846da6e3d71a57ac5d077368a4551f8b55a654"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "8524b112522d0213bbc66098c88b45b8de11b26429360bddd9db9174a1b53cb6"
+
+[[files]]
+file = "config/Mekanism/general.toml"
+hash = "29478f8251a9e83582c7fba676ec7c3e52cbce364e3f8ce04bfc5663014a6010"
+
+[[files]]
 file = "config/almostunified/unify.json"
 hash = "0a1794c5715b1f2a2a811f7317b4c33f6f8ce0cd2655e12da1d325cc62444be6"
 
@@ -23,6 +31,18 @@ hash = "b5717a5f64dec2dc4a03f34cfac5a9c170ab8cd04c34c11653c16d0e7e9b577d"
 [[files]]
 file = "config/fml.toml"
 hash = "eb16558525059d5edb1d18a49e7830eaeaef6941da8fec1db87fa8df69fa54e5"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "dca4556d32e973ed059d1130cd664adc5c2719cb1c249f0339da566cd264f683"
+
+[[files]]
+file = "config/torohealth.json"
+hash = "8c56228e0d2d476b3a55a67b84610a3125adbae5be6037fac203e6cb6ede66e6"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "690d055e17ce98a9407398eb066bffbb9d8235423649619c6d58bceb3c190ac7"
 
 [[files]]
 file = "defaultconfigs/computercraft-server.toml"
