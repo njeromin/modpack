@@ -22,7 +22,7 @@ hash = "55b598dca3289b277de53d79f82b69f51d3ed365f4feaac9a73b8db5f3db10b2"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
-hash = "5225a2cfba58482f4ff80f171e267578f8ee4872f9c27924f281d900bd3a3be9"
+hash = "1b443cf403e704a5daa1e6386a3f790b1f9d9aa9f372d6932359d7678bef2b8f"
 
 [[files]]
 file = "config/emi.css"
@@ -46,11 +46,15 @@ hash = "690d055e17ce98a9407398eb066bffbb9d8235423649619c6d58bceb3c190ac7"
 
 [[files]]
 file = "defaultconfigs/computercraft-server.toml"
-hash = "d7fe13222e918e8ba4b603bd5822f566305b582679a986ed0a34d326714ad9cc"
+hash = "c19b82686f4a2a916bf8f2c2a2559605e4e598f7a775cb44d5000697b7c3b1a3"
 
 [[files]]
 file = "defaultconfigs/fluxnetworks-server.toml"
 hash = "04f935aff799af1028b010671a6461e1b40fc5fb7ddafc4045fde40e095549fb"
+
+[[files]]
+file = "defaultconfigs/journeymap-server.toml"
+hash = "764e578db97eaf869851c9a47a645dbe82030f63653ba66e3617b52c748fb46c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
