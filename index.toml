@@ -202,6 +202,11 @@ hash = "73b223e3640386229fdb826495cb3d024879f9f7792bf465e51ed6c6ac026971"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "a0d58b1ae5fdbfdf77c255a9dad2ee5694c77396f4f0030eb0b49b71629ef67d"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ca52b58cf0540bcec5d8b0318cddb371683b6f3f87ad9b925ff600ddd330f461"
 metafile = true
@@ -607,6 +612,11 @@ hash = "810f773689a23c44b37d6b6f4e05d4c2277f2ec43cb393a7a793a92cacb89685"
 metafile = true
 
 [[files]]
+file = "mods/jadecolonies.pw.toml"
+hash = "6e0f6da66f160c45c050978db47e8295ccb0e65862e4b53b06b5b191ccd51d14"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "4bf3e2967f413a12484fbc051f7e6746d52845e2beff2baf125d8ca2d2fd8a2d"
 metafile = true
@@ -814,6 +824,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "3efe1725ae6105d992ab8be92044c83e1886b0b9f0972415c3f72ab018e82f79"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
