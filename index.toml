@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
+hash = "2b72603f6c667657e0ff8e64c15877c2bba751b6a6229470b7d2a0bd8bcaeaac"
 metafile = true
 
 [[files]]
@@ -783,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "eb156c89b37c02ca60e6ae884b33c92c5db7bd7cb90a6f9f0995b0e766bd0345"
+hash = "fbc55a05e0bb21093cc5d96dd496f63bfd8a6337116ab4d8436312f4d284dde4"
 metafile = true
 
 [[files]]
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators-updated.pw.toml"
-hash = "bc4a64821f2ae6d53d19a040589413e2e16b954843a257bfcdd85e446159e31c"
+hash = "a9d3ab64a30fdf92f408383f2b6b81abd395deca58a63f29f0b76bd844c2cebf"
 metafile = true
 
 [[files]]

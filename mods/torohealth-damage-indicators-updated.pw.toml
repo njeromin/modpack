@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/FZGNeNIO/versions/ovWvJ3oj/torohealth-1.20.
 hash-format = "sha1"
 hash = "da6d23a8e0d6cfd5de195c2eb46d0d67eea04bab"
 
+[option]
+optional = true
+default = true
+description = "Floating damage numbers."
+
 [update]
 [update.modrinth]
 mod-id = "FZGNeNIO"

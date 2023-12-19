@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/GchcoXML/versions/yUsIHXQX/oculus-mc1.20.1-
 hash-format = "sha1"
 hash = "196539d0e5dc057b81edbaa8d0e396c6cd8a2db8"
 
+[option]
+optional = true
+default = true
+description = "Shader support."
+
 [update]
 [update.modrinth]
 mod-id = "GchcoXML"
