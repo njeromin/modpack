@@ -22,7 +22,7 @@ hash = "55b598dca3289b277de53d79f82b69f51d3ed365f4feaac9a73b8db5f3db10b2"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
-hash = "1b443cf403e704a5daa1e6386a3f790b1f9d9aa9f372d6932359d7678bef2b8f"
+hash = "b4144e0426eaf404a7aa7ae7bf0349a9f295db0e774b5e4849d6620b5087959e"
 
 [[files]]
 file = "config/emi.css"

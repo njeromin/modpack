@@ -26,8 +26,12 @@ METHOD_SHADER_BLACKLIST = [
   "net.minecraft.src.C_3431_",
   "renderDirtBackground",
   "m_280039_",
-  "m_280039_",
+  "net.minecraftforge.client.loading.ForgeLoadingOverlay:m_88315_",
   "journeymap",
+  "jade",
+  "arsnouveau",
+  "squeek.appleskin.client.TooltipOverlayHandler$FoodTooltipRenderer:m_183452_", # appleskin tooltip
+  "com.ldtteam.blockui.UiRenderMacros:blit",                                     # minecolonies gui
 ]
 #Enabling this config will (every 5 seconds) dump which methods were used to render GUIs that the dark shader was applied to
 #The dump will consist of a list of class:method strings, e.g. 'net.minecraftforge.client.gui.overlay.ForgeGui:renderFood'
