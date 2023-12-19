@@ -34,7 +34,7 @@ hash = "eb16558525059d5edb1d18a49e7830eaeaef6941da8fec1db87fa8df69fa54e5"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "dca4556d32e973ed059d1130cd664adc5c2719cb1c249f0339da566cd264f683"
+hash = "ba1c639e0a63514d88117e0f063bd3cf2275157267cf75b25733fcb9c0c46830"
 
 [[files]]
 file = "config/torohealth.json"
