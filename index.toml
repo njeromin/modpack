@@ -22,7 +22,7 @@ hash = "55b598dca3289b277de53d79f82b69f51d3ed365f4feaac9a73b8db5f3db10b2"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
-hash = "245ed8110ba7d87d1e20a8b606408cb5679e0162a60cd62cd78f473bca25d109"
+hash = "5225a2cfba58482f4ff80f171e267578f8ee4872f9c27924f281d900bd3a3be9"
 
 [[files]]
 file = "config/emi.css"
@@ -38,7 +38,7 @@ hash = "dca4556d32e973ed059d1130cd664adc5c2719cb1c249f0339da566cd264f683"
 
 [[files]]
 file = "config/torohealth.json"
-hash = "8c56228e0d2d476b3a55a67b84610a3125adbae5be6037fac203e6cb6ede66e6"
+hash = "2698864a2dcc71de0f43be3288b9c4551aada511fb636312c3c896c38893a8c1"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -360,6 +360,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "60061d2936c70ec9bc2bcc193a69f3536229f29d3d5bed450efafb777d675fc5"
+metafile = true
+
+[[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "363eaa44985a9a6c36fca94d8f6e5967eda1fa31b3b4f3211407a4ac1d0f3b55"
 metafile = true
 
 [[files]]
