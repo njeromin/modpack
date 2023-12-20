@@ -158,12 +158,12 @@ metafile = true
 
 [[files]]
 file = "mods/ars-energistique.pw.toml"
-hash = "523892e1dbcf6e40b2d85730c7aacfd88d2f11591d3f64b03e0b85bc5d8f5c69"
+hash = "2ab49d79bcffc639498d56682599148f427b610ac29c51264d3fc803cc0783c2"
 metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "5b236103b7ca5c3c2e28e7454e6a2f04dc91a43044d1e6197bb38a981a2dd038"
+hash = "439d75f6e4413773780ccda63ea39138fbb44beb5eeb5895c197dcb6f9006e94"
 metafile = true
 
 [[files]]
@@ -958,7 +958,12 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "cba2fe39dbb3e441a198731b5f215caa0798d3fe9ce7f2521a9343b9e04a2675"
+hash = "aa552caa20576995d4fb2fe2b7eeae40e27365675a896baaa2b941ee377b2416"
+metafile = true
+
+[[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "9421e7ce08f775700d1d59cd042decdcdd32ebbbbb605bf8fdf9f6cccdd9107a"
 metafile = true
 
 [[files]]
