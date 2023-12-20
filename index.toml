@@ -1083,10 +1083,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+hash = "8e5dec090dd5b22621ebd3c0f9d968662b95036576dd4326be0bb652a43dd45d"
 metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "a3428a3954ff0029d90c7184047d81c7f2091ac679e500aace22290c32010472"
+hash = "63a735fba35b6374451391baeb4838a6b387524a715bd980287a2417975971d8"
 metafile = true
