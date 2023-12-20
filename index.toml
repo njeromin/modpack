@@ -1080,3 +1080,13 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "320c9cf7ee561d4d8d2ce26fbd64f9d11bc977024d627ae170bed2e0facbed35"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "a3428a3954ff0029d90c7184047d81c7f2091ac679e500aace22290c32010472"
+metafile = true
