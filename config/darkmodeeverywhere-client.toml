@@ -30,6 +30,7 @@ METHOD_SHADER_BLACKLIST = [
   "journeymap",
   "jade",
   "arsnouveau",
+  "effortlessbuilding",
   "squeek.appleskin.client.TooltipOverlayHandler$FoodTooltipRenderer:m_183452_", # appleskin tooltip
   "com.ldtteam.blockui.UiRenderMacros:blit",                                     # minecolonies gui
 ]
