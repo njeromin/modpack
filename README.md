@@ -14,5 +14,10 @@ Download the latest release from [releases](https://github.com/njeromin/modpack/
 
 3. Go to **Edit Instance** → **Settings** → **Custom commands**, then check the **Custom Commands** box and paste the following command into the **pre-launch** command field:
 ```sh
-    "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/njeromin/modpack/main/pack.toml
+    "$INST_JAVA" -jar "$INST_DIR/packwiz-installer-bootstrap.jar" https://raw.githubusercontent.com/njeromin/modpack/main/pack.toml
+```
+
+### Server
+```sh
+java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/njeromin/modpack/main/pack.toml
 ```
