@@ -1,12 +1,12 @@
 name = "Modpack"
 author = "njeromin"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "55edbf9372d4d0f5a1dc95eb8138dd88e68d5124fdad5c5d5cfa116dd4795f1f"
+hash = "06cd576cf024f3f840a9f7418041b6b98eeae75eae00b7ae2cdc66138e1cbd37"
 
 [versions]
 forge = "47.2.17"

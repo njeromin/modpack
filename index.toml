@@ -37,6 +37,18 @@ file = "config/forge-client.toml"
 hash = "ba1c639e0a63514d88117e0f063bd3cf2275157267cf75b25733fcb9c0c46830"
 
 [[files]]
+file = "config/hyperbox-common.toml"
+hash = "1c19a5c0432fe759fc3b06ae8713268c044302e9dfad1a23734b9d6ac922aa28"
+
+[[files]]
+file = "config/integrateddynamics-common.toml"
+hash = "197b280a1335d1054a479a1c8944a1ba84c910a6da204a7ffd5ff93e1e2fbcfa"
+
+[[files]]
+file = "config/minecolonies-common.toml"
+hash = "293b1e1f6dc7bf6fabfddeaa3451d962795e9a6daba921044372c72f13d7fab3"
+
+[[files]]
 file = "config/torohealth.json"
 hash = "2698864a2dcc71de0f43be3288b9c4551aada511fb636312c3c896c38893a8c1"
 
@@ -284,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "b873e902aed9cfd7c61903b906de6be326b892c85cb873deccbf57c30de4c8a3"
 metafile = true
 
 [[files]]
@@ -554,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/highlight.pw.toml"
 hash = "ee8e026f46f06f68fa61abfd0e50b195c3348c8ecbbcac8eeb8fc7a05c1219ba"
+metafile = true
+
+[[files]]
+file = "mods/hyperbox.pw.toml"
+hash = "7a03a4c186860f5fa9fe732aa9bb1a7a9817721435c0a1fd240b51830a4c7f8c"
 metafile = true
 
 [[files]]
@@ -919,6 +941,16 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "ee0fa3921e81c5c47c27e09de1dffef9088d51981082fd1c80186f4c412e238e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9f68a11739e652f811453f92768c0170064240f79700bc8d68f4665a2b1c697f"
 metafile = true
 
 [[files]]
