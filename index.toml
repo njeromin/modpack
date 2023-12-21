@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
@@ -516,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "a9b2b88f1a7b966731ba8e102361324cc43df6b1254d0eb6bf2d945f7a8776a2"
 metafile = true
 
 [[files]]
@@ -931,6 +936,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "2fa5ea494970356e540621e228ef4c717a7774ee12a6b0b5bf33a804cd1032b8"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "00b26be36c5ae7b04256fecbca278e8b8cbd7b1c0179f64030c2a46a2e762f8b"
 metafile = true
 
 [[files]]
