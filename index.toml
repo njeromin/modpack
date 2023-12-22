@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "f916533d790a0806268fe5bb63b178ca6bfca1dd2ad28f6d548c1abdba7b84ba"
+hash = "220b794857ee4dc6a8cbea011b01f64d6f75613c750979ce9fc034f95bda3b06"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "3c7c2d68e44836c03bfaf4ff826c0fe3d806a59fb4486b32f02a2861515bc243"
+hash = "6f6c6b3b05c676b1ae46dd4d9a51e4593c6afec7e8afa57aa8ab8022c121851e"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "810f773689a23c44b37d6b6f4e05d4c2277f2ec43cb393a7a793a92cacb89685"
+hash = "76a9cf429fc6f4a8fff40b535406ae0da96940d7e1f0b80b8dcd3744f0e5e8ac"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "61295bd5216e888fd5e4a19b50c6b4efc315aaa42eb95de19cab13c09c7d68d1"
+hash = "6803ab932fc0e33b29cdee0d416018289a48933e57e258cf399f248e88b164fc"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "be15e26c57596a239a4ce1ab4115003c39ca4e9e505ebf92990dcd005030c7e7"
+hash = "1b81dd66034ae46b30ca85679c1482596caf26ca6e71c820f5cdeade760e5b93"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f321666fe7e0261e42641001f65eac7fdc820c10e41c253dd9490d91b23e4203"
+hash = "50f7c9f97db1815803ed070a51dfd15a3a12d493c4ab713a473b05f12040172c"
 metafile = true
 
 [[files]]
@@ -1120,12 +1120,12 @@ metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
-hash = "da8f7282e9a24280f2b363a14541421732d15cdc863e680e03bfb2047c1ea17e"
+hash = "23a2ebc6f394c3243e7272d0bb718aa72df201963e19f620871cf85b19a8ef7b"
 metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "e81c1deb8ae4582cd71ab44290ebb7c0de93acf13511d192ed18720b064b75e4"
+hash = "b345d9fbf1b73e1d4a8c447e611331da22387826531296980e1c12132b7e08f3"
 metafile = true
 
 [[files]]
@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9df5796ed46af89c5b376156c96708b4cf03e49a9ed07e9ac8426d00a70f3402"
+hash = "510ea080ada5a85b8a582af900d505d2d407aa7304ce62134dc0d98d718c0222"
 metafile = true
 
 [[files]]
