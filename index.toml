@@ -434,6 +434,11 @@ hash = "492e5dd8f362bd45fe85fac61e52f6e34978cbb27167cb57eee3dac4a9c4acdb"
 metafile = true
 
 [[files]]
+file = "mods/cyclic.pw.toml"
+hash = "a86bacb53e4e78db2e07029d5427ac282c2e1e9e9aaa372e1aadabeed53c5f6e"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "60061d2936c70ec9bc2bcc193a69f3536229f29d3d5bed450efafb777d675fc5"
 metafile = true
@@ -606,6 +611,11 @@ metafile = true
 [[files]]
 file = "mods/flat-bedrock.pw.toml"
 hash = "a9b2b88f1a7b966731ba8e102361324cc43df6b1254d0eb6bf2d945f7a8776a2"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
 metafile = true
 
 [[files]]
