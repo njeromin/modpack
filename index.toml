@@ -1059,6 +1059,11 @@ hash = "f156c40c0c9453fc3871188e483fb6f696802ef07f87ebfaf5f5eda58979cb1c"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7986425df54d16850b84c3c8bc63fe963dceb19c5190f67839c5bddf22730ee7"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "6fd9a6d68248f4f9651ffef54116ca3dee692e7f9a3aebdf95fd79a431dfd8be"
 metafile = true
