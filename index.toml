@@ -734,6 +734,11 @@ hash = "f4114f4aa85a2e2788b4f5b8880db24459ab68c2e6a2218fc799a907d199b073"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "83c49a3da5384ef83f99e7d8b84ce9b517c674b797d458e82901749231bab345"
 metafile = true
