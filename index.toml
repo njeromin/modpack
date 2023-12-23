@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
@@ -496,21 +496,6 @@ metafile = true
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
 hash = "4784d39f1340e7889f9bb3f93a973f13b010581527a5a6ce020521e9b9c3822d"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "b734cd619d52708a97b96d142f7b492da3f1dde06355049fe617501fe4fd6bd9"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "68d1babb9367d13f4ac375ea41cd4f1affaf12a5ff047386ab2c6aee83c9a023"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
 metafile = true
 
 [[files]]
@@ -1054,6 +1039,11 @@ hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "78c2924034bad9bfe4ecfa7367e3e4efbadb2e1634f98e67d725bdc8a9c40398"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "1b81dd66034ae46b30ca85679c1482596caf26ca6e71c820f5cdeade760e5b93"
 metafile = true
@@ -1066,6 +1056,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "f156c40c0c9453fc3871188e483fb6f696802ef07f87ebfaf5f5eda58979cb1c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "6fd9a6d68248f4f9651ffef54116ca3dee692e7f9a3aebdf95fd79a431dfd8be"
 metafile = true
 
 [[files]]
