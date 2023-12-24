@@ -25,10 +25,6 @@ file = "config/darkmodeeverywhere-client.toml"
 hash = "387bb0c12a4de7f9c7453ca8a3bd999022e08f8f989bd9ec9c5d868ae5f239e4"
 
 [[files]]
-file = "config/emi.css"
-hash = "b5717a5f64dec2dc4a03f34cfac5a9c170ab8cd04c34c11653c16d0e7e9b577d"
-
-[[files]]
 file = "config/fml.toml"
 hash = "eb16558525059d5edb1d18a49e7830eaeaef6941da8fec1db87fa8df69fa54e5"
 
