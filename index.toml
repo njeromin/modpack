@@ -639,6 +639,11 @@ hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
+metafile = true
+
+[[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "82edae501ea32b9ed6939a9ca81122345bd081137529421dfa98cc60aeb79313"
 metafile = true
