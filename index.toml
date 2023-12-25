@@ -33,6 +33,10 @@ file = "config/forge-client.toml"
 hash = "ba1c639e0a63514d88117e0f063bd3cf2275157267cf75b25733fcb9c0c46830"
 
 [[files]]
+file = "config/ftbbackups2.json"
+hash = "7c52eee3d228cebaedf543a3af1de45f9d4f2fac7413cb5d576409c552df1da0"
+
+[[files]]
 file = "config/hyperbox-common.toml"
 hash = "1c19a5c0432fe759fc3b06ae8713268c044302e9dfad1a23734b9d6ac922aa28"
 
@@ -43,6 +47,26 @@ hash = "197b280a1335d1054a479a1c8944a1ba84c910a6da204a7ffd5ff93e1e2fbcfa"
 [[files]]
 file = "config/minecolonies-common.toml"
 hash = "293b1e1f6dc7bf6fabfddeaa3451d962795e9a6daba921044372c72f13d7fab3"
+
+[[files]]
+file = "config/ping-wheel.json"
+hash = "14cc20edfb83c48b7501d0a0e132cf213ccd48f359ccd5fb72e9cdc324708f96"
+
+[[files]]
+file = "config/rats-client.toml"
+hash = "03bba8358cc8c1dc43cf04b01b61a5314f33ca06695ab28e2e326d5060394c53"
+
+[[files]]
+file = "config/rats-common.toml"
+hash = "752b0bb96ecc745346403d8a90bea9ebf076111f038d5645dde349299c1b048d"
+
+[[files]]
+file = "config/rightclickharvest.toml"
+hash = "85dce0ae7a6e1e38ebb590e2df851036db7bcd086ca476581ed2efe3fa13ef22"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "191fbc93ab731f55a075b1a124ba0c4014602d30b3d230e37998d1d914ede4f8"
 
 [[files]]
 file = "config/torohealth.json"
@@ -1132,6 +1156,11 @@ metafile = true
 [[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "00b26be36c5ae7b04256fecbca278e8b8cbd7b1c0179f64030c2a46a2e762f8b"
+metafile = true
+
+[[files]]
+file = "mods/simply-light.pw.toml"
+hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
 
 [[files]]
