@@ -429,6 +429,11 @@ hash = "80cd69fa5ed669ac67b9a729e1aa7937265d0f70ce89f3f0205b360406b1dee1"
 metafile = true
 
 [[files]]
+file = "mods/creeper-firework.pw.toml"
+hash = "3839f912063f74bc2cd295cfe96ed300913f789d1b90989743f756e11e783b36"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "d4768ef37900b4cc89d15e3fb12c59ad1b21818e247186b8ae1f491208b4abe8"
 metafile = true
