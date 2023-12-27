@@ -21,6 +21,10 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "55b598dca3289b277de53d79f82b69f51d3ed365f4feaac9a73b8db5f3db10b2"
 
 [[files]]
+file = "config/creeper_firework-common.toml"
+hash = "f5be7c268fee86bf65f20f926d1f234fbd8a0193b221d6aa6c3bc9a6eeebdb99"
+
+[[files]]
 file = "config/darkmodeeverywhere-client.toml"
 hash = "387bb0c12a4de7f9c7453ca8a3bd999022e08f8f989bd9ec9c5d868ae5f239e4"
 
@@ -169,6 +173,11 @@ hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
 
 [[files]]
+file = "mods/angel-ring.pw.toml"
+hash = "48043d1268df7dbf91e52289fbf89d2e73f151b989c68a00195beb10240aa9cc"
+metafile = true
+
+[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "851e8393fb9d54f97f5903f665a216703eb6b3a997b4be59827ae833000fd177"
 metafile = true
@@ -286,6 +295,16 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "220b794857ee4dc6a8cbea011b01f64d6f75613c750979ce9fc034f95bda3b06"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "62cb152352492c4d021f4e82b4071e7eee9f905f635841d19fc734faca343f7b"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "9da2c8827c41774a0f8aab2b0159a036473169ebce84c5885cc7e82f40f926cb"
 metafile = true
 
 [[files]]
