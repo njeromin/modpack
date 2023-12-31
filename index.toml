@@ -813,6 +813,11 @@ hash = "83c49a3da5384ef83f99e7d8b84ce9b517c674b797d458e82901749231bab345"
 metafile = true
 
 [[files]]
+file = "mods/item-collectors.pw.toml"
+hash = "edde6f048b8706739af7a9e01b9e5ee36501b619326a35a416eb92f24717800b"
+metafile = true
+
+[[files]]
 file = "mods/itemphysic.pw.toml"
 hash = "e79ecf48868b0fe504ee67094e6d3291d3501121cbec0f580497fa1acd426ddb"
 metafile = true
@@ -1095,6 +1100,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "c5372ddbf3c5abc5c1cb5ef67086e13f688574c5a1699130e6d0792e3e990310"
+metafile = true
+
+[[files]]
+file = "mods/pylons.pw.toml"
+hash = "bc1e258d9a07776313182944aa219e7798b25345bb52331ea19f0cf5181b3371"
 metafile = true
 
 [[files]]
